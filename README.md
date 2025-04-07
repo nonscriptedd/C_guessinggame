@@ -1,6 +1,6 @@
-Linux:
+For everyone,
 ATTENTION!
--You need to install the GCC C compiler before starting the installation!
+-You need to install the GCC C compiler and Git before starting the installation!
 
 ----------------------------------------------------------------------------
 
