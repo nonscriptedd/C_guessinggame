@@ -19,4 +19,4 @@ To START it, run:
 $ ./game
 
 A question should show up via explanation, have fun!
-
+https://www.sanalokulumuz.com/oran-oranti-problemleri-7sinif-test/793
